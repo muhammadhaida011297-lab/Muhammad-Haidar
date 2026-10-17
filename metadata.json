@@ -1,0 +1,6 @@
+{
+  "name": "Integrated Management System - Document & Audit Control",
+  "description": "SMKP Minerba | ISO 9001 | ISO 14001 | ISO 45001 - Enterprise Document, Audit & Compliance Management System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
